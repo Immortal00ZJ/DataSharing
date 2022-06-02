@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JustLoginRegisterTest</string>
+    <string name="bt_main_logout">退出登录</string>
+    <string name="bt_main_usergive">授权子用户</string>
+    <string name="bt_main_datagive">传输数据</string>
+    <string name="bt_main_userdelete">删除子用户</string>
+    <string name="bt_main_dataget">读取数据</string>
+    <string name="tv_usergive_top">授权子用户</string>
+    <string name="tv_give_username">用户名：</string>
+    <string name="et_give_username">手机号/邮箱/用户名</string>
+    <string name="bt_give">授权</string>
+    <string name="tv_userpassword">密 码：</string>
+    <string name="tv_datamanager_old">原密码：</string>
+    <string name="tv_datamanager_new">新密码：</string>
+    <string name="tv_userdelete">删除子用户</string>
+    <string name="tv_userdelete_username">用户名：</string>
+    <string name="et_userdelete_username">请输入用户名</string>
+    <string name="et_userdelete_password">请输入密码</string>
+    <string name="bt_userdelete">删除</string>
+    <string name="tv_dataget">数据获取</string>
+    <string name="tv_dataget_username">用户名：</string>
+    <string name="et_dataget_username">请输入用户名</string>
+    <string name="bt_dataget">获取</string>
+</resources>
